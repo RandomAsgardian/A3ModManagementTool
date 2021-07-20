@@ -17,3 +17,6 @@ Never deal with mod-related frustration again!
 This tool was written using .Net 5.0, you can download it here if you do not have it:
 
  https://dotnet.microsoft.com/download/dotnet/5.0
+
+Server IP's should be entered with the preface ftp:// 
+
