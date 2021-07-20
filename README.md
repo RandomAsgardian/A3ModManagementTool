@@ -12,3 +12,8 @@ Given an Arma 3 Modlist html, this tool can:
 -Tell you what mods your server is missing
 
 Never deal with mod-related frustration again!
+
+
+This tool was written using .Net 5.0, you can download it here if you do not have it:
+
+ https://dotnet.microsoft.com/download/dotnet/5.0
